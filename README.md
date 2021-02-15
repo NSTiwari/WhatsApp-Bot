@@ -15,8 +15,7 @@ WhatsApp Bot is a Python-based chatbot for WhatsApp to automate the process of s
 
 
 **Note:** 
-- The `whatsapp_bot.py` code is subject to change with different versions of Google Chrome.
-- The current code is compatible for Chrome version 88 only and the corresponding [Chrome Driver](https://github.com/NSTiwari/WhatsApp-Bot/blob/main/chromedriver.exe) is included in the repository.
+- The `whatsapp_bot.py` code is subject to change with different versions of Google Chrome. The current code is compatible for Chrome version 88 only and the corresponding [Chrome Driver](https://github.com/NSTiwari/WhatsApp-Bot/blob/main/chromedriver.exe) is included in the repository.
 
 
 - For a different version, download Chrome Driver from [here](https://chromedriver.chromium.org/downloads).
