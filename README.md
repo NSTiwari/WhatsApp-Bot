@@ -9,7 +9,7 @@ WhatsApp Bot is a Python-based chatbot for WhatsApp to automate the process of s
    - `pip install selenium`
    - `pip install schedule`
    
-3. Open the `whatsapp_bot.py` file and edit **Line 43** by replacing `<your_user_name>` with the username of your machine. Also edit **Line 46** by replacing `<path_to_chromedriver.exe>` with the actual path of `chromedriver.exe`.
+3. Open the `whatsapp_bot.py` file and edit **Line 43** by replacing `<your_user_name>` with the username of your machine. Also edit **Line 46** by replacing `<path_to_chromedriver.exe>` with the actual path of `chromedriver.exe` on your machine.
 
 4. Once all the setup is done, run the command `python whatsapp_bot.py`.
 
