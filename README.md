@@ -27,7 +27,7 @@ With this application, you can do the following interesting things:
 - Automated reply to unread messages.
 
 
-## Send a message.
+### Send a message.
 
 ![GitHub Logo](/screenshots/cmd_send_message.png)
 
@@ -35,7 +35,7 @@ With this application, you can do the following interesting things:
 
 
 
-## Schedule a message.
+### Schedule a message.
 
 ![GitHub Logo](/screenshots/cmd_schedule_message.png)
 
@@ -43,7 +43,7 @@ With this application, you can do the following interesting things:
 
 
 
-## Reply to unread messages.
+### Reply to unread messages.
 
 ![GitHub Logo](/screenshots/cmd_reply_unread_message.png)
 
