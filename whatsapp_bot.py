@@ -40,11 +40,10 @@ def hasxpath(xpath):
 
 if __name__=="__main__":
 	options=webdriver.ChromeOptions()
-	options.add_argument('--user-data-dir=C:/Users/tiwar/AppData/Local/Google/Chrome/User Data/Default')
+	options.add_argument('--user-data-dir=C:/Users/<your_user_name>/AppData/Local/Google/Chrome/User Data/Default')
 	options.add_argument('--profile-directory=Default')
 
-	#chrome_browser=webdriver.Chrome(executable_path = 'C:/Users/<your_user_name>/Downloads/chromedriver.exe', options=options)
-	chrome_browser=webdriver.Chrome(executable_path = 'E:/WhatsApp-Bot/chromedriver.exe', options=options)
+	chrome_browser=webdriver.Chrome(executable_path = '<path_to_chromedriver.exe>', options=options)
 	chrome_browser.get('https://web.whatsapp.com/')
 	time.sleep(15)
 
