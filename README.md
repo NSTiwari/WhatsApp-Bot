@@ -23,20 +23,24 @@ WhatsApp Bot is a Python-based chatbot for WhatsApp to automate the process of s
 
 With this application, you can do the following interesting things:
 - Send message to a person or a group.
+- Schedule a message at a given time to a person or a group.
+- Automated reply to unread messages.
+
+## Send a message.
 
 ![GitHub Logo](/screenshots/cmd_send_message.png)
 
 ![GitHub Logo](/screenshots/send_message.png)
 
 
-- Schedule a message at a given time to a person or a group.
+## Schedule a message.
 
 ![GitHub Logo](/screenshots/cmd_schedule_message.png)
 
 ![GitHub Logo](/screenshots/schedule_message.png)
 
 
-- Automated reply to unread messages.
+## Reply to unread messages.
 
 ![GitHub Logo](/screenshots/cmd_reply_unread_message.png)
 
